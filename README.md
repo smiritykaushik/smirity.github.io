@@ -1,8 +1,6 @@
 ## Smirity Kaushik
 
-You can use the [editor on GitHub](https://github.com/Smirity/smirity.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Doctoral student at the University of Illinois, Urbana-Champaign. My research interest lies at the intersection of usable privacy and explainable AI. I previously worked as a Privacy Consultant at Ernst & Young (EY) North America practice, primarily serving multi-national technology sector clients in Silicon Valley and the Greater Seattle area. I am skilled in compliance with US privacy laws and EU-GDPR. I also hold a JD equivalent law degree from India and an MS in Information Management degree from Syracuse University. I strongly support empowering and encouraging women in technology and other fields.
 
 ### Markdown
 
