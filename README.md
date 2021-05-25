@@ -2,34 +2,14 @@
 
 I am a Doctoral student at the University of Illinois, Urbana-Champaign. My research interest lies at the intersection of usable privacy and explainable AI. I previously worked as a Privacy Consultant at Ernst & Young (EY) North America practice, primarily serving multi-national technology sector clients in Silicon Valley and the Greater Seattle area. I am skilled in compliance with US privacy laws and EU-GDPR. I also hold a JD equivalent law degree from India and an MS in Information Management degree from Syracuse University. I strongly support empowering and encouraging women in technology and other fields.
 
-### Markdown
+### Selected Honors and Awards
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Student Volunteer, ACM Conference on Human Factors in Computing Systems, 2021
+* IAPP SOUPS Privacy Award, Sixteenth Symposium on Usable Privacy and Security (SOUPS), 2019
+* John R. Weitzel Award for Information Systems Research, School of Information Studies, Syracuse University, 2019
+* Grace Hopper Conference Scholar, 2018
 
-```markdown
-Syntax highlighted code block
+### Updates
 
-# Header 1
-## Header 2
-### Header 3
+* **Apr 2021**:New paper conditionally accepted at [SOUPS 2021](https://www.usenix.org/conference/soups2021): The paper focuses on understanding people's perspectives on attributes of the solely automated decision-making to be explained and the related privacy right under the General Data Protection Regulation (EU-GDPR). Pre-print to appear soon!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Smirity/smirity.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
